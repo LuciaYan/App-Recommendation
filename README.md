@@ -8,6 +8,8 @@
 * [for Write](https://github.com/LuciaYan/App-Recommendation/blob/master/App%20recommendation/2.Creat.md#for-write)<br>
 * [for Wallpaper](https://github.com/LuciaYan/App-Recommendation/blob/master/App%20recommendation/2.Creat.md#for-wallpaper)<br>
 * [for Mark](https://github.com/LuciaYan/App-Recommendation/blob/master/App%20recommendation/2.Creat.md#for-mark)<br>
+* [for Code](https://github.com/LuciaYan/App-Recommendation/blob/master/App%20recommendation/2.Creat.md#for-code)<br>
+* [for Music](https://github.com/LuciaYan/App-Recommendation/blob/master/App%20recommendation/2.Creat.md#for-music)<br>
 
 ####[**3. Life**](https://github.com/LuciaYan/App-Recommendation/blob/master/App%20recommendation/3.Life.md#for-life)<br>
 
