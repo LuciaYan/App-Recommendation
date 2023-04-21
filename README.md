@@ -11,9 +11,9 @@ App recommendation
 * [for Code](https://github.com/LuciaYan/App-Recommendation/blob/master/App%20recommendation/2.Creat.md#for-code)<br>
 * [for Music](https://github.com/LuciaYan/App-Recommendation/blob/master/App%20recommendation/2.Creat.md#for-music)<br>
 
-####[**3. Life**](https://github.com/LuciaYan/App-Recommendation/blob/master/App%20recommendation/3.Life.md#for-life)<br>
+[**3. Life**](https://github.com/LuciaYan/App-Recommendation/blob/master/App%20recommendation/3.Life.md#for-life)<br>
 
-####[**4. Play**](https://github.com/LuciaYan/App-Recommendation/blob/master/App%20recommendation/4.Play.md#for-play)<br>
+[**4. Play**](https://github.com/LuciaYan/App-Recommendation/blob/master/App%20recommendation/4.Play.md#for-play)<br>
 <br>
 <br>
 <br>
